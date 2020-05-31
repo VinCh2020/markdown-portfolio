@@ -6,9 +6,9 @@ layout: default
 
 <br>
 
-![Image of Yaktocat](https://octodex.github.com/images/filmtocat.png)
+![Image of film cat](https://octodex.github.com/images/filmtocat.png)
 
 <br>
 
-![Image of Yaktocat](https://octodex.github.com/images/original.png)
+![Image of original cat](https://octodex.github.com/images/original.png)
 
